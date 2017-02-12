@@ -1,8 +1,0 @@
-CREATE DATABASE EMC;
-
-CREATE TABLE `LUN` (
-  `id` varchar(32) NOT NULL,
-  `size` varchar(32) DEFAULT 0,
-  `export` bit(1) DEFAULT NULL ,
-  PRIMARY KEY (`id`)
-)
