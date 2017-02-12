@@ -1,4 +1,4 @@
-package src.test3;
+package test3;
 
 import javax.xml.ws.Endpoint;
 

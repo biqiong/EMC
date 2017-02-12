@@ -1,4 +1,4 @@
-package src.test1;
+package test1;
 
 import java.util.LinkedList;
 import java.util.List;

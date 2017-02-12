@@ -1,4 +1,4 @@
-package src.test1;
+package test1;
 
 import org.junit.Test;
 import junit.framework.TestCase;
